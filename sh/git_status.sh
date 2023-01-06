@@ -1,0 +1,1 @@
+set PATH=$PATH:/usr/local/cpanel/3rdparty/lib/path-bin && cd /var/www/html/mis/ && git status

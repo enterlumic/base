@@ -1,0 +1,1 @@
+mysql -u adminBD -pF4I6^\$BDC-aEonn9 -e 'USE pruebas; DROP TABLE IF EXISTS probando; DELETE FROM migrations where migration like  "%_probando"  ;';

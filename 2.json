@@ -1,0 +1,29 @@
+[{
+	"user_id": "32586",
+	"Nombre_Completo": "ACOSTA RAMOS JOSELIM SARAHI",
+	"Ingreso": "2022-08-23",
+	"Baja": "2022-09-02",
+	"Ant": 10,
+	"Turno": "8:45 \u2013 15:00 L-S",
+	"Rol": 1,
+	"Puesto": "RVT ESTRENA FORANEO",
+	"Departamento": "ESTRENA FORANEO",
+	"ventas_sum": 0,
+	"ventas_avg": 0,
+	"dias_en_cero": 7,
+	"19 Oct 2022": 0
+}, {
+	"user_id": "31556",
+	"Nombre_Completo": "ALANIS PEDRAZA ANGEL XAVIER",
+	"Ingreso": "2022-05-25",
+	"Baja": "2022-09-14",
+	"Ant": 112,
+	"Turno": "8:45 \u2013 15:00 L-S",
+	"Rol": 1,
+	"Puesto": "RVT MUEVETE POSPAGO",
+	"Departamento": "POSPAGO",
+	"ventas_sum": 0,
+	"ventas_avg": 0,
+	"dias_en_cero": 7,
+	"19 Oct 2022": 0
+}]

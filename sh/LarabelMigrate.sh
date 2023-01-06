@@ -1,0 +1,1 @@
+cd /var/www/html/pruebas && php artisan migrate --path=database/migrations/2023_01_05_163849_probando.php
